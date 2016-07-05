@@ -1,0 +1,46 @@
+ru:
+  Comment:
+    ALLOWCOMMENTS: 'Разрешить комментарии'
+    COMMENT: Комментарий
+    COMMENTBY: 'Комментарий автора %s'
+    CREATED: 'Дата добавления'
+    EMAIL: Email
+    ISSPAM: 'Спам?'
+    MODERATED: 'Проверено?'
+    NAME: 'Автор'
+    PARENTTITLE: Родительская
+    PLURALNAME: Комментарии
+    SINGULARNAME: Комментарий
+    URL: URL
+  CommentAdmin:
+    MENUTITLE: Комментарии
+    NewComments: Новый
+    SpamComments: Спам
+  CommentInterface:
+    COMMENT_MESSAGE_URL: 'Пожалуйста, задайте действительный URL-адрес'
+    EMAILADDRESS_MESSAGE_EMAIL: 'Пожалуйста, укажите действительный электронный адрес'
+    EMAILADDRESS_MESSAGE_REQUIRED: 'Пожалуйста, укажите свой электронный адрес'
+    POST: Отправить
+    PREVIEW: Просмотр
+    PREVIEWLABEL: Просмотр
+    YOURNAME: 'Имя'
+    YOURNAME_MESSAGE_REQUIRED: 'Пожалуйста, укажите своё имя'
+  CommentingController:
+    COMMENTS: Комментарии
+    EMAILADDRESS: 'Ваш электронный адрес (не будет опубликован)'
+    RSSTITLE: 'RSS-лента комментариев'
+    WEBSITEURL: 'Адрес вашего сайта'
+  CommentsInterface_pendingcomment_ss:
+    AWAITINGMODERATION: 'Ваш комментарий отправлен и ожидает проверки.'
+  CommentsInterface_singlecomment_ss:
+    PBY: 'Автор:'
+  CommentsInterface_ss:
+    AWAITINGMODERATION: 'Ваш комментарий отправлен и ожидает проверки.'
+    COMMENTS: Комментарии
+    COMMENTSDISABLED: 'Комментарии отключены'
+    DELETEALLCOMMENTS: 'удалить все комментарии со страницы'
+    LOGINTOPOSTCOMMENT: 'Войдите чтобы получить возможность отправлять комментарии'
+    NEXT: следующий
+    NOCOMMENTSYET: 'Комментариев на этой странице пока нет.'
+  PageCommentInterface:
+    DELETEALLCOMMENTS: 'Удалить все комментарии на этой странице'
